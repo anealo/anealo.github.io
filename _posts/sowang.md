@@ -1,0 +1,670 @@
+<!-- 参考http://www.sowang.com/s/ -->
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=GBK">
+<title>搜网全能搜 - 搜索引擎大全!各大搜索引擎一键搜索!</title>
+
+<meta name="Description" content="为您提供各大搜索引擎入口,集合全世界最大的搜索引擎百度搜索,谷歌搜索,360搜索,搜狗搜索,必应搜索等搜索引擎,帮您一键实现对百度、谷歌、搜狗、必应、360等搜索引擎及视频、图片、音乐、知识、微博、微信、购物等热门网站搜索，方便您快速找到所需！&quot;">
+<meta name="Keywords" content="搜索引擎,搜索大全,搜索引擎大全,全能搜,百度搜索引擎,google谷歌搜索引擎,360搜索引擎,搜狗搜索引擎,搜搜搜索引擎,必应搜索引擎,购物搜索引擎,网页搜索引擎,音乐搜索引擎,视频搜索引擎,学术搜索引擎,图片搜索引擎">
+
+<style type="text/css">
+<!--
+
+body, td{color:/#000;font-size:12px;font-family:宋体;line-height:140%}
+A:LINK{color:/#039;}
+
+A:VISITED{color:/#039;}
+A:HOVER{color:/#f60;}
+
+.WH{color:/#FFF;font:bold 14.8px 宋体}
+.WHS{color:/#FFF;font:12px 宋体}
+
+:link.WHS{color:/#FFF;font:12px 宋体}
+:visited.WHS{color:/#FFF;font:12px 宋体}
+
+:hover.WHS{color:/#f60;font:12px 宋体}
+.X{font-size:24px;font-weight:bold;}
+
+.L{font-size:16px;font-weight:bold;}
+.M{font:bold 14.8px 宋体}
+
+.C{font-size:14.8px}
+.S{font-size:12px}
+
+.LM{line-height:130%}
+.LL{line-height:150%}
+
+.f11{font-size:14.9px}
+.f1{font-size:10px}
+
+.f2{font-size:12px}
+.f3{font-size:16px}
+
+.f4{font-size:18px}
+.f5{font-size:24px}
+
+.f6{font-size:31px}
+.lh13{line-height:130%}
+
+.lh15{line-height:150%}
+.lh17{line-height:170%}
+
+select{font-size:12px}
+input{font-size:12px}
+
+.l15{line-height:150%}
+.img01{border-color:/#000000;color:/#000000;}
+
+.c01{color:/#ffffff;line-height:150%}
+.c03{color:/#FA7701;line-height:170%;font-size:14.9px}
+
+.td_background {BACKGROUND-COLOR: /#f7f7f4; COLOR: /#3f3f3f; FONT-SIZE: 12px;
+LINE-HEIGHT: 13pt; TEXT-ALIGN: center}
+
+.f14 {font-size:14.8px;font-family:宋体; line-height: 20px}
+.b10 { font-family: "宋体"; font-size: 10pt; color: /#000000; line-height: 130%}
+
+.black9 { font-family: "宋体"; font-size: 9pt; color: /#000000; text-decoration: none}
+.p4{font-size:14.8px;line-height:130%}
+
+.f9 { font-size: 12px}
+.a { font-family: "宋体"; font-size: 12px; color: 000099; text-decoration: none}
+
+.text {font-size: 14.9px; line-height: 22px}
+a {font-size: 9pt; text-decoration: underline}
+
+.blue {text-decoration: underline;color:/#000099;line-height: 18px;}
+.green { font-family: "宋体"; font-size: 14px; color: 687C49; text-decoration: none}
+
+.b2 { font-family: "宋体"; font-size: 12px; color: /#000000; text-decoration: none; line-height: 18px}
+a:link.a02 {color:/#0000ff;font-size:14.9px;font-weight:bold;}
+
+.t3 { font-size: 14px; line-height: 140%; }
+.tech15 {font-size:14.9px;line-height:120%;}
+
+.techs1 {font-size:10px;color:/#6666cc;}
+.navtd{ font-size: 12px; font-family: MS Shell Dlg,Tahoma,sans-serif,宋体; color: /#FFFFFF; text-decoration: none }
+
+.bold{ font-weight: bold }
+a:link.lan7 {color:/#00169C;font-size:12px}
+
+.l17 {line-height:170%;}
+a:link.link1 {text-decoration:none;}
+
+.cont {FONT-FAMILY: 宋体; FONT-SIZE: 14px; LINE-HEIGHT: 20px}
+.blank {LINE-HEIGHT: 20px; WIDTH: 95%; align: left}
+
+td {font-family:宋体;font-size:12px;}
+.itm {
+
+FONT-FAMILY: "宋体"; FONT-SIZE: 12px
+; color: /#FFFFFF}
+
+.a14{font-size:14px;text-indent:25px;line-height:20px}
+.item { font: 10pt "宋体"}
+
+table {font-family: "宋体"; font-size: 9pt;}
+.sms { font-size: 12px}.sms { font-size: 12px}.sms { font-size: 12px}a:link.keys { color: /#0000FF; text-decoration: none; font-size: 12px; }a:link.keys { color: /#0000FF; text-decoration: none; font-size: 12px; }a:link.keys { color: /#0000FF; text-decoration: none; font-size: 12px; }a:link.keys { color: /#0000FF; text-decoration: none; font-size: 12px; }a:link.keys { color: /#0000FF; text-decoration: none; font-size: 12px; }a:link.keys { color: /#0000FF; text-decoration: none; font-size: 12px; }a:link.keys { color: /#0000FF; text-decoration: none; font-size: 12px; }a:link.keys { color: /#0000FF; text-decoration: none; font-size: 12px; }a:link.keys { color: /#0000FF; text-decoration: none; font-size: 12px; }a:link.keys { color: /#0000FF; text-decoration: none; font-size: 12px; }a:link.keys { color: /#0000FF; text-decoration: none; font-size: 12px; }a:link.keys { color: /#0000FF; text-decoration: none; font-size: 12px; }a:link.keys { color: /#0000FF; text-decoration: none; font-size: 12px; }a:link.keys { color: /#0000FF; text-decoration: none; font-size: 12px; }a:link.keys { color: /#0000FF; text-decoration: none; font-size: 12px; }a:link.keys { color: /#0000FF; text-decoration: none; font-size: 12px; }a:link.keys { color: /#0000FF; text-decoration: none; font-size: 12px; }a:link.keys { color: /#0000FF; text-decoration: none; font-size: 12px; }a:link.keys { color: /#0000FF; text-decoration: none; font-size: 12px; }a:link.keys { color: /#0000FF; text-decoration: none; font-size: 12px; }a:link.keys { color: /#0000FF; text-decoration: none; font-size: 12px; }a:link.keys { color: /#0000FF; text-decoration: none; font-size: 12px; }a:link.keys { color: /#0000FF; text-decoration: none; font-size: 12px; }a:link.keys { color: /#0000FF; text-decoration: none; font-size: 12px; }a:link.keys { color: /#0000FF; text-decoration: none; font-size: 12px; }a:link.keys { color: /#0000FF; text-decoration: none; font-size: 12px; }.p1{font-size:12px}
+
+.b { font-family: "宋体"; font-size: 14px; color: /#000000; text-decoration: none; font-weight: bold}
+.f12{font-size:12px; color:/#000000; line-height: 18px}
+
+.dir {FONT-FAMILY: 宋体; FONT-SIZE: 14.8px; FONT-WEIGHT: bold}
+.unnamed1 { font-size: 9pt}
+
+.TEXT1 {line-height: 130%;}
+.p2{font-size:12px;line-height:130%;}
+
+.tomg { color: /#000000; font-size:12px; text-decoration:none}
+a:link.tomg {color: /#000000; text-decoration:none}
+
+.f{font-size:12px}.c07{color:/#777777;line-height:150%;}
+a:link.lk3 {color:/#777777;text-decoration:none;}
+
+.font {font-size: 9pt; font-family: "宋体", "Arial Narrow", "Times New Roman",line-height:13pt;}
+:link.fl{color:/#6f6f6f}
+
+.n02 {FONT-SIZE: 14px; LINE-HEIGHT: 150%}
+a:link.a07 {text-decoration:none;color:/#0000AA;}
+
+.p3{font-family:"宋体";font-size:12px;line-height:200%}.black { font-size: 12px;text-decoration: none;line-height: 18px;}
+.tableBorder1{width:98%;border: 1px; background-color: /#6595D6;}
+
+td.TableBody1{background-color: /#FFFFFF;line-height : normal ;}
+table {font-family: "宋体"; font-size: 9pt;}
+
+/*{margin:0;padding:0;}
+.newsblue1 { font-size: 14px; line-height: 21px; color: /#0F0CBF;}
+
+a {font-size: 9pt; text-decoration: underline}
+a:link{color:000066}
+
+a:link{font-size:12px;color:/#0000cc;}
+/*{margin:0;padding:0;}
+
+--></style><!--<base target="_blank">--><base href="." target="_blank">
+<style type="text/css">/#yddContainer{display:block;font-family:Microsoft YaHei;position:relative;width:100%;height:100%;top:-4px;left:-4px;font-size:12px;border:1px solid}/#yddTop{display:block;height:22px}/#yddTopBorderlr{display:block;position:static;height:17px;padding:2px 28px;line-height:17px;font-size:12px;color:/#5079bb;font-weight:bold;border-style:none solid;border-width:1px}/#yddTopBorderlr .ydd-sp{position:absolute;top:2px;height:0;overflow:hidden}.ydd-icon{left:5px;width:17px;padding:0px 0px 0px 0px;padding-top:17px;background-position:-16px -44px}.ydd-close{right:5px;width:16px;padding-top:16px;background-position:left -44px}/#yddKeyTitle{float:left;text-decoration:none}/#yddMiddle{display:block;margin-bottom:10px}.ydd-tabs{display:block;margin:5px 0;padding:0 5px;height:18px;border-bottom:1px solid}.ydd-tab{display:block;float:left;height:18px;margin:0 5px -1px 0;padding:0 4px;line-height:18px;border:1px solid;border-bottom:none}.ydd-trans-container{display:block;line-height:160%}.ydd-trans-container a{text-decoration:none;}/#yddBottom{position:absolute;bottom:0;left:0;width:100%;height:22px;line-height:22px;overflow:hidden;background-position:left -22px}.ydd-padding010{padding:0 10px}/#yddWrapper{color:/#252525;z-index:99999;background:url(chrome-extension://bgllbpdmpeenjbeiigkhccehncomjfbk/ab20.png);}/#yddContainer{background:/#fff;border-color:/#4b7598}/#yddTopBorderlr{border-color:/#f0f8fc}/#yddWrapper .ydd-sp{background-image:url(chrome-extension://bgllbpdmpeenjbeiigkhccehncomjfbk/ydd-sprite.png)}/#yddWrapper a,/#yddWrapper a:hover,/#yddWrapper a:visited{color:/#50799b}/#yddWrapper .ydd-tabs{color:/#959595}.ydd-tabs,.ydd-tab{background:/#fff;border-color:/#d5e7f3}/#yddBottom{color:/#363636}/#yddWrapper{min-width:250px;max-width:400px;margin-top: 15px;}</style><style id="style-1-cropbar-clipper">//* Copyright 2014 Evernote Corporation. All rights reserved. /*/
+
+.en-markup-crop-options {
+top: 18px !important;
+
+left: 50% !important;
+margin-left: -100px !important;
+
+width: 200px !important;
+border: 2px rgba(255,255,255,.38) solid !important;
+
+border-radius: 4px !important;
+}
+
+.en-markup-crop-options div div:first-of-type {
+margin-left: 0px !important;
+
+}
+</style></head>
+
+<body>
+<div align="center">
+
+<table border="0" width="55%" height="636">
+<tbody><tr>
+
+<td height="108">
+<p align="center">
+
+<img border="0" src="http://www.sowang.com/sowang.gif" alt="搜网全能搜 --- 帮您一键实现对百度、谷歌、搜狗、必应、360搜索引擎、视频、图片、音乐、知识、微博、微信、购物等热门网站搜索，方便您快速找到需要的东西！" width="341" height="110"></p></td>
+</tr>
+
+<tr>
+<td height="345">
+
+<table border="0" cellpadding="0" cellspacing="0" width="873" height="280">
+<tbody><tr>
+
+<td width="873" height="19" style="font-size: 12px; margin: 0; padding: 0">
+</td>
+
+</tr>
+<tr>
+
+<td width="873" height="19" style="font-size: 12px; margin: 0; padding: 0">
+</td>
+
+</tr>
+<tr>
+
+<td width="873" height="19" style="font-size: 12px; margin: 0; padding: 0">
+<font color="/#FF0000">
+
+<span style="font-size: 10.5pt; margin: 0; padding: 0" lang="zh-cn">请在</span><span style="font-size: 10.5pt" lang="zh-cn">搜索</span><span style="font-size: 10.5pt">框</span><span style="font-size: 10.5pt; margin: 0; padding: 0" lang="zh-cn">中输入您想搜索的内容</span></font><font style="margin: 0; padding: 0"><font color="/#333333"><span style="font-size: 10.5pt">，点击网站名称左边</span></font><span style="font-size: 10.5pt"><font color="/#FF0000">圈圈</font></span></font><font color="/#333333" style="margin: 0; padding: 0"><span style="font-size: 10.5pt">，</span></font><span lang="zh-cn" style="margin: 0; padding: 0"><font color="/#333333" style="margin: 0; padding: 0"><span style="font-size: 10.5pt">开始您的搜索之旅
+！搜网全能搜一键搜索！</span>&nbsp;<span style="font-size: 10.5pt"> </span> </font></span>
+
+<font color="/#635f5c" style="margin: 0px; padding: 0px"><b>
+<span class="eng">
+
+<font color="/#333333" style="margin: 0px; padding: 0px">
+<span style="font-size: 10.5pt"></span></font></span>
+
+</b><span class="eng">
+<font color="/#333333" style="margin: 0px; padding: 0px"><u><span style="margin: 0px; padding: 0px">
+
+<font color="/#FF0000" style="margin: 0; padding: 0; ">
+<a href="http://www.sowang.com/">
+
+<font color="/#FF0000" style="font-size: 10.5pt; font-weight:700">搜网首页</font></a></font></span></u></font></span></font><b><span lang="zh-cn" style="margin: 0; padding: 0"><font color="/#333333" style="margin: 0; padding: 0">&nbsp; </font></span>
+<font color="/#111111"></font><span lang="zh-cn" style="margin: 0; padding: 0"><font color="/#333333" style="margin: 0; padding: 0">&nbsp; </font></span><span lang="zh-cn" style="margin: 0; padding: 0"><font color="/#333333" style="margin: 0; padding: 0"> </font></span>
+
+</b><font color="/#333333"><span style="font-size: 10.5pt">
+</span></font><b><script language="javascript">
+
+<!--
+function check(select){
+
+key = document.form1.word.value;
+switch(select){
+
+case 001: window.open('http://search.tianya.cn/s?q='+key);break;
+case 002: window.open('http://www.soku.com/search_video/q_'+key);break;
+
+case 003: window.open('http://s.weibo.com/weibo/'+key);break;
+case 004: window.open('http://so.tudou.com/nisearch//'+key);break;
+
+case 005: window.open('http://search.xunlei.com/search.php?keyword='+key);break;
+case 006: window.open('http://www.baidu.com/baidu?tn=bds&cl=3&ct=2097152&si=gamersky.com&s=&word='+key);break;
+
+case 007: window.open('http://so.iqiyi.com/so/q_'+key);break;
+case 009: window.open('http://www.so.com/s?ie=utf-8&src=360sou_home&q='+encodeURIComponent(key));break;
+
+case 024: window.open('http://news.chinaso.com/newssearch.htm?q='+key);break;
+case 511: window.open('http://so.tv.sohu.com/mts?box=1&wd='+key);break;
+
+case 013: window.open('https://search.jd.com/Search?keyword='+key);break;
+case 015: window.open('http://searchb.dangdang.com/?key='+key);break;
+
+case 016: window.open('http://www.amazon.cn/gp/search?__mk_zh_CN=%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%BD%91%E7%AB%99&url=search-alias%3Daps&field-keywords='+key);break;
+case 017: window.open('http://tuan.baidu.com/quanguo/?do=search&wd='+key);break;
+
+case 018: window.open('http://wenku.baidu.com/search?word='+key);break;
+case 019: window.open('http://zh.wikipedia.org/wiki/'+key);break;
+
+case 020: window.open('http://tieba.baidu.com/f?kw='+key);break;
+case 021: window.open('http://www.baidu.com/s?rtt=2&tn=baiduwb&cl=2&wd='+key);break;
+
+case 322: window.open('http://weixin.sogou.com/weixin?type=2&query='+key);break;
+case 023: window.open('http://www.douban.com/search?search_text='+key);break;
+
+case 026: window.open('http://map.sogou.com//#lq='+key);break;
+case 027: window.open('http://www.haodou.com/search/'+key);break;
+
+case 028: window.open('http://gouwu.sogou.com/shop?query='+key);break;
+case 029: window.open('http://xyx.hao123.com/search/?q='+key);break;
+
+case 030: window.open('http://search.17173.com/jsp/news.jsp?keyword='+key .htm);break;
+case 031: window.open('http://data.yule.baidu.com/s?word='+key .htm);break;
+
+case 033: window.open('http://image.so.com/i?q='+key .htm);break;
+case 034: window.open('http://gouwu.sogou.com/shop?query='+key);break;
+
+case 211: window.open('http://www.kugou.com/common/search.php?keyword='+encodeURIComponent(key));break;
+case 212: window.open('http://mp3.baidu.com/m?f=ms&rf=idx&tn=baidump3&ct=134217728&lf=&rn=&word='+key);break;
+
+case 213: window.open('http://www.sowang.cn/'+key);break;
+case 214: window.open('http://music.yahoo.cn/s?q='+key);break;
+
+case 101: window.open('http://www.google.com/cse?cx=partner-pub-6779091984393228%3A69q7uss5stz&ie=GB2312&q='+key);break;
+case 102: window.open('https://video.so.com/v?q='+key);break;
+
+case 103: window.open('http://dict.baidu.com/s?ie=gb2312&bs=windows&sr=&z=&cl=3&f=8&word='+key);break;
+case 221: window.open('https://www.google.com.hk/search?safe=strict&hl=zh-CN&source=hp&ei=RYeuWoPrEISyswGswYHYCA&q='+key);break;
+
+case 223: window.open('http://www.sogou.com/sogou?query='+key+'&pid=sogou-site-bd1354624fbae3b2');break;
+case 224: window.open('http://www.baidu.com/s?tn=sitesowang&word='+key);break;
+
+case 227: window.open('http://cn.bing.com/search?q='+encodeURIComponent(key));break;
+case 233: window.open('http://www.baidu.com/s?wd='+key);break;
+
+case 232: window.open('http://v.baidu.com/search.php?word='+key);break;
+case 237: window.open('http://www.baidu.com/s?tn=sitesowang&cl=3&rn=10&ct=0&lm=0&word=filetype%3Aall+'+key);break;
+
+case 238: window.open('http://www.gougou.com/search?search='+key);break;
+case 239: window.open('http://pic.sogou.com/pics?query='+key);break;
+
+case 240: window.open('http://sucai.zcool.com.cn/search.do?k='+key);break;
+case 241: window.open('http://www.baidu.com/s?cl=3&tn=sitesowang&f=5&wd=mtv下载 '+key);break;
+
+case 249: window.open('http://images.google.cn/images?complete=1&hl=zh-CN&q='+key);break;
+case 250: window.open('http://image.baidu.com/i?ct=201326592&cl=2&lm=-1&tn=baiduimage&pv=&word='+key);break;
+
+case 251: window.open('http://video.baidu.com/v?ct=301989888&rn=20&pn=0&db=0&s=0&word='+key);break;
+case 252: window.open('http://search.pptv.com/s_video?kw='+key);break;
+
+case 253: window.open('http://v.iask.com/v?k='+key);break;
+case 255: window.open('http://movie.hao123.com/allsearch?q='+key);break;
+
+case 256: window.open('http://www.soku.com/search_video/q_'+key);break;
+case 264: window.open('http://mp3.baidu.com/m?rn=&tn=baidump3&ct=134217728&lm=6&word='+key);break;
+
+case 269: window.open('http://so.hudong.com/s/doc/'+key);break;
+case 270: window.open('http://zhidao.baidu.com/q?ct=17&pn=0&tn=ikaslist&rn=10&word='+key);break;
+
+case 271: window.open('http://baike.baidu.com/w?ct=17&lm=0&tn=baiduWikiSearch&pn=0&rn=10&word='+key);break;
+case 274: window.open('http://www.baidu.com/s?tn=sitesowang&ct=&lm=&z=&rn=&word='+key);break;
+
+case 275: window.open('http://www.iciba.com/'+key);break;
+case 276: window.open('http://www.baidu.com/baidu?ie=gb2312&ct=1048576&cl=3&word='+key);break;
+
+case 278: window.open('http://zidian.cn.yahoo.com/result_en2cn.html?p='+key);break;
+case 279: window.open('http://dict.cn/search/?q='+key);break;
+
+case 280: window.open('http://www.lfzz.net/tools/dict.asp?word='+key);break;
+case 281: window.open('http://hanyu.baidu.com/s?ie=gb2312&bs=windows&sr=&z=&cl=3&f=8&word='+key);break;
+
+case 284: window.open('http://s.taobao.com/search?q='+key);break;
+case 285: window.open('http://search.cctv.com/search.php?qtext='+encodeURIComponent(key));break;
+
+case 300: window.open('http://list.tmall.com/search_product.htm?q='+key);break;
+case 310: window.open('http://www.xilinjie.com/s?q='+key);break;
+
+case 400: window.open('http://so2.4399.com/search/search.php?k='+key);break;
+case 500: window.open('http://www.baidu.com/s?tn=sitesowang&word='+key);break;
+
+case 501: window.open('http://s.taobao.com/search?q='+key);break;
+case 502: window.open('http://v.baidu.com/v?word='+key);break;
+
+case 503: window.open('http://list.tmall.com/search_product.htm?q='+key);break;
+case 504: window.open('http://mp3.baidu.com/m?f=ms&rf=idx&tn=baidump3&ct=134217728&lf=&rn=&word='+key);break;
+
+case 505: window.open('http://map.baidu.com/m?word='+key);break;
+case 506: window.open('http://s.weibo.com/weibo/'+key);break;
+
+case 507: window.open('http://tieba.baidu.com/f?kw='+key);break;
+case 508: window.open('http://news.baidu.com/ns?word='+key);break;
+
+case 509: window.open('http://xueshu.baidu.com/s?wd='+key);break;
+case 510: window.open('http://v.qq.com/search.html?pagetype=3&stj2=search.search&stag=txt.index&ms_key='+key);break;
+
+case 600: window.open('http://vdisk.weibo.com/search/?type=public&keyword='+key);break;
+case 700: window.open('http://xueshu.baidu.com/s?wd='+key);break;
+
+case 800: window.open('http://cn.bing.com/academic/search?q='+key);break;
+case 900: window.open('http://www.sogou.com/xueshu?ie=utf-8&query='+key);break;
+
+case 920: window.open('http://epub.cnki.net/kns/brief/default_result.aspx'+key);break;
+case 990: window.open('http://www.sowang.com/chaxun/index.htm'+key);break;
+
+case 950: window.open('https://sg.search.yahoo.com/search;_ylt=AwrBTvcZ.PlTbwEApZQi4gt.;_ylc=X1MDMjExNDcwODAwMgRfcgMyBGJjawNjb2Q5ZHExOXZqdTBwJTI2YiUzRDMlMjZzJTNEOGEEZnIDBGdwcmlkAwRtdGVzdGlkA251bGwEbl9yc2x0AzAEbl9zdWdnAzAEb3JpZ2luA3NnLnNlYXJjaC55YWhvby5jb20EcG9zAzAEcHFzdHIDBHBxc3RybAMEcXN0cmwDNgRxdWVyeQNzZWFyY2gEdF9zdG1wAzE0MDg4OTA2NTUEdnRlc3RpZANudWxs?pvid=tKo33Dk4LjHm5xgGlXwchw6aMTgyLlP5.Bn_iSKI&p='+key);break;
+case 960: window.open('https://www.yandex.com/search/?text='+key);break;
+
+case 991: window.open('https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q='+key);break;
+case 992: window.open('http://zhihu.sogou.com/zhihu?query='+key);break;
+
+case 993: window.open('http://dict.youdao.com/search?q='+key);break;
+case 994: window.open('http://www.chaoxing.com/search?sw='+key);break;
+
+case 995: window.open('http://www.sciinfo.cn/Result.aspx?c=1&q='+key);break;
+case 996: window.open('http://cn.whu.findplus.cn/?h=search_list&query='+key);break;
+
+case 997: window.open('http://search.gome.com.cn/search?question='+key);break;
+case 635: window.open(''+key);break;
+
+}
+}
+
+//-->
+</script></b><font color="/#333333"><span style="font-size: 10.5pt"> 　</span></font><span id="thread_78482"></span></td>
+
+</tr>
+<tr>
+
+<td width="873" height="47" style="font-size: 12px; margin: 0; padding: 0"><form name="form1" method="get" action="http://www.baidu.com/s?tn=sitesowang&amp;word=" style="margin: 0; padding: 0">
+<p align="center"><font size="5" style="margin: 0; padding: 0">
+
+<input name="word" size="78" onfocus="this.select()" onmouseover="this.focus()" style="margin:0; padding:0; font-size: 16pt; float:left" onkeypress="if(event.keyCode==13){check(101);return false;}"></font><font color="/#333333" style="margin: 0; padding: 0"> </font></p>
+<p style="line-height: 200%" align="left"></p>
+
+</form></td>
+</tr>
+
+<tr>
+<td width="873" height="27" style="font-size: 12px; margin: 0; padding: 0">
+
+<font color="/#800000">
+<span style="font-size: 10.5pt">经常使用</span></font><font color="/#333333" style="margin: 0; padding: 0; font-size:10.5pt"> </font>
+
+<font color="/#333333">
+<input type="radio" onclick="check(500)" value="V1" style="margin: 0; padding: 0; font-size:10.5pt" name="e7"></font><span style="margin:0; padding:0; TEXT-DECORATION: none" id="linkArea1"><font color="/#333333" style="margin: 0; padding: 0; font-size:10.5pt">百度</font></span><font color="/#333333"><span style="font-size: 10.5pt">搜索　</span></font><font color="/#333333" style="margin: 0; padding: 0"><input type="radio" onclick="check(322)" style="margin:0; padding:0; font-size: 10.5pt" value="V1" name="e10"></font><font style="font-size: 10.5pt">微信</font><font color="/#333333" style="font-size: 10.5pt">搜索</font><font color="/#333333"><span style="font-size: 10.5pt">　</span></font><font color="/#333333" style="margin: 0; padding: 0"><input type="radio" onclick="check(507)" value="V1" style="margin: 0; padding: 0; font-size:10.5pt" name="e16"></font><font color="/#333333"><span style="font-size: 10.5pt">百度贴吧　</span></font><font color="/#333333" style="margin: 0; padding: 0"><input type="radio" onclick="check(501)" style="margin:0; padding:0; font-size: 10.5pt" value="V1" name="e8"></font><font color="/#333333"><font face="Trebuchet MS" style="font-size: 10.5pt; margin: 0; padding: 0">淘 宝 网</font><span style="font-size: 10.5pt">　</span></font><font color="/#333333" style="margin: 0; padding: 0"><input type="radio" onclick="check(504)" value="V1" style="margin: 0; padding: 0; font-size:10.5pt" name="e11"></font><font color="/#333333"><font style="margin: 0; padding: 0"><span style="font-size: 10.5pt">百度音乐</span></font><span style="font-size: 10.5pt">　</span></font><font color="/#333333" style="margin: 0; padding: 0"><input type="radio" onclick="check(506)" value="V1" style="margin: 0; padding: 0; font-size:10.5pt" name="e13"></font><font color="/#333333"><font style="margin: 0; padding: 0"><span style="font-size: 10.5pt">新浪微博</span></font><span style="font-size: 10.5pt">　</span><input type="radio" onclick="check(256)" value="V1" style="margin: 0; padding: 0; font-size:10.5pt" name="e9"></font><span style="font-size: 10.5pt; text-decoration: none;"><font color="/#333333">优酷</font></span><font color="/#333333"><span style="font-size: 10.5pt; margin: 0; padding: 0" lang="zh-cn">视频</span><span style="font-size: 10.5pt">　</span></font><font color="/#333333" style="margin: 0; padding: 0"><input type="radio" onclick="check(505)" value="V1" style="margin: 0; padding: 0; font-size:10.5pt" name="e12"></font><font color="/#333333"><font style="margin: 0; padding: 0"><span style="font-size: 10.5pt">百度地图</span></font></font></td>
+
+</tr>
+<tr>
+
+<td width="873" height="27" style="font-size: 12px; margin: 0; padding: 0">
+<font color="/#800000">
+
+<a style="text-decoration: none; color:/#00e; font-size:10.5pt" href="http://www.sowang.com/search.htm">
+<font color="/#800000">综合搜索</font></a></font><font color="/#333333" style="margin: 0; padding: 0"><span style="font-size: 10.5pt">
+
+</span> </font>
+<font color="/#333333">
+
+<input type="radio" onclick="check(224)" value="V1" style="margin: 0; padding: 0; font-size:10.5pt" name="e1"></font><span id="linkArea0" style="margin: 0; padding: 0"><a target="_blank" href="http://www.sowang.com/BAIDU/" style="text-decoration: none; margin: 0; padding: 0; font-size:10.5pt"><span style="margin:0; padding:0; TEXT-DECORATION: none"><font color="/#333333" style="margin: 0; padding: 0">百度</font></span></a></span><font color="/#333333"><span style="font-size: 10.5pt">搜索　</span><input type="radio" onclick="check(221)" value="V1" style="margin: 0; padding: 0; font-size:10.5pt" name="e2"></font><span style="margin:0; padding:0; text-decoration: none"><a style="text-decoration: none; margin: 0; padding: 0; font-size:10.5pt" href="http://www.sowang.com/googleseaech.htm"><font color="/#000000" style="margin: 0; padding: 0">谷歌</font></a></span><font color="/#333333"><span style="font-size: 10.5pt">搜索　</span><input type="radio" onclick="check(009)" value="V1" style="margin: 0; padding: 0; font-size:10.5pt" name="e3"><span style="font-size: 10.5pt">360 搜索　</span><input type="radio" onclick="check(223)" value="V1" style="margin: 0; padding: 0; font-size:10.5pt" name="e"><span style="font-size:10.5pt;margin:0; padding:0; text-decoration: none; cursor:pointer;" onclick="check(223)"><font style="margin: 0; padding: 0">搜狗搜索</font></span><span style="font-size: 10.5pt">　</span><input type="radio" onclick="check(227)" value="V1" style="margin: 0; padding: 0; font-size:10.5pt" name="e18"><span style="font-size: 10.5pt">必应搜索　</span><input type="radio" onclick="check(024)" value="V1" style="margin: 0; padding: 0; font-size:10.5pt" name="e"><span style="font-size: 10.5pt">中国搜索　</span><input type="radio" onclick="check(950)" value="V1" style="margin: 0; padding: 0; font-size:10.5pt" name="e38"><span style="font-size: 10.5pt">雅虎英文 </span><input type="radio" onclick="check(960)" value="V1" style="margin: 0; padding: 0; font-size:10.5pt" name="e38"><span style="font-size: 10.5pt">Yandex </span></font></td>
+</tr>
+
+<tr>
+<td width="873" height="27" style="font-size: 12px; margin: 0; padding: 0">
+
+<font color="/#800000"><span style="font-size: 10.5pt">购物搜索</span></font><font color="/#434545" style="margin: 0; padding: 0; font-size:10.5pt">
+</font><font color="/#3F3F3F" style="margin: 0; padding: 0">
+
+<input type="radio" onclick="check(284)" style="margin:0; padding:0; font-size: 10.5pt" value="V1" name="e40"></font><font face="Trebuchet MS" color="/#333333" style="font-size: 10.5pt; margin: 0; padding: 0">淘 宝 网</font><font color="/#333333"><span style="font-size: 10.5pt">　</span></font><font color="/#333333" style="margin: 0; padding: 0"><span style="font-size: 10.5pt">
+</span><input type="radio" onclick="check(300)" style="margin:0; padding:0; font-size: 10.5pt" value="V1" name="e5"></font><font face="Trebuchet MS" color="/#333333" style="font-size: 10.5pt; margin: 0; padding: 0">天猫商城</font><font color="/#333333"><span style="font-size: 10.5pt">　</span></font><font color="/#333333" style="margin: 0; padding: 0"><input type="radio" onclick="check(013)" style="margin:0; padding:0; font-size: 10.5pt" value="V1" name="e41"></font><font face="Trebuchet MS" color="/#333333" style="font-size: 10.5pt; margin: 0; padding: 0">京东商城</font><font color="/#333333"><span style="font-size: 10.5pt">　</span></font><font color="/#333333" style="margin: 0; padding: 0"><input type="radio" onclick="check(015)" style="margin:0; padding:0; font-size: 10.5pt" value="V1" name="e42"></font><font face="Trebuchet MS" color="/#333333" style="font-size: 10.5pt; margin: 0; padding: 0">当 当 网</font><font color="/#333333"><span style="font-size: 10.5pt">　</span></font><font color="/#333333" style="margin: 0; padding: 0"><input type="radio" onclick="check(016)" style="margin:0; padding:0; font-size: 10.5pt" value="V1" name="e43"></font><font face="Trebuchet MS" color="/#3F3F3F" style="font-size: 10.5pt; margin: 0; padding: 0"><span style="font-size: 10.5pt; text-decoration: none"><font color="/#333333">卓 越 网</font></span></font><font color="/#333333"><span style="font-size: 10.5pt">　 </span></font><font color="/#333333" style="margin: 0; padding: 0"><input type="radio" onclick="check(034)" style="margin:0; padding:0; font-size: 10.5pt" value="V1" name="e21"></font><font face="Trebuchet MS" color="/#333333" style="font-size: 10.5pt; margin: 0; padding: 0">搜狗购物</font><font color="/#333333"><span style="font-size: 10.5pt">　 </span></font><font color="/#333333" style="margin: 0; padding: 0">
+
+<input type="radio" onclick="check(997)" style="margin:0; padding:0; font-size: 10.5pt" value="V1" name="e52"></font><font face="Trebuchet MS" color="/#333333" style="font-size: 10.5pt; margin: 0; padding: 0">国美电器</font></td>
+</tr>
+
+<tr>
+<td width="873" height="27" style="font-size: 12px; margin: 0; padding: 0">
+
+<font color="/#800000" style="margin: 0; padding: 0">
+<span style="font-size: 10.5pt">视频<a style="text-decoration: none; font-size: 10.5pt; margin: 0; padding: 0" href="http://www.sowang.com/ZY/MOVIES.HTM"><font color="/#800000">搜索</font></a></span></font><font color="/#333333" style="margin: 0; padding: 0"><span style="font-size: 10.5pt">
+
+</span></font><font color="/#333333">
+<input type="radio" onclick="check(007)" value="V1" style="margin: 0; padding: 0; font-size:10.5pt" name="e27"><span style="font-size: 10.5pt">奇艺</span><font><span style="font-size: 10.5pt">高清</span></font><span style="font-size: 10.5pt">　</span><input type="radio" onclick="check(251)" style="margin:0; padding:0; font-size: 10.5pt" value="V1" name="e14"><span style="font-size: 10.5pt; margin: 0; padding: 0" lang="zh-cn">百度视频</span><span style="font-size: 10.5pt">　</span></font><font color="/#333333" style="margin: 0; padding: 0"><input type="radio" onclick="check(256)" style="margin:0; padding:0; font-size: 10.5pt" value="V1" name="e28"><span style="font-size: 10.5pt">优酷视频</span></font><font color="/#333333"><span style="font-size: 10.5pt">　</span><input type="radio" onclick="check(510)" value="V1" style="margin: 0; padding: 0; font-size:10.5pt" name="e20"><span style="font-size: 10.5pt">腾讯视频　</span></font><font color="/#333333" style="margin: 0; padding: 0"><font color="/#333333"><input type="radio" onclick="check(511)" style="margin:0; padding:0; font-size: 10.5pt" value="V1" name="e30"></font><span style="font-size: 10.5pt">搜狐视频</span></font><font color="/#333333"><span style="font-size: 10.5pt">　</span></font><font color="/#333333" style="margin: 0; padding: 0"><input type="radio" onclick="check(252)" style="margin:0; padding:0; font-size: 10.5pt" value="V1" name="e32"></font><font color="/#333333"><span style="font-size: 10.5pt">PPTV聚力　</span><input type="radio" onclick="check(285)" value="V1" style="margin: 0; padding: 0; font-size:10.5pt" name="e4"><span style="font-size: 10.5pt">央视视频
+
+</span><input type="radio" onclick="check(102)" value="V1" style="margin: 0; padding: 0; font-size:10.5pt" name="e48"><span style="font-size: 10.5pt">360视频</span></font></td>
+</tr>
+
+<tr>
+<td width="873" height="27" style="font-size: 12px; margin: 0; padding: 0">
+
+<font style="margin: 0; padding: 0"><span style="font-size: 10.5pt">
+<font color="/#800000" style="margin: 0; padding: 0">知识搜索</font></span><font color="/#333333" style="margin: 0; padding: 0"><span style="font-size: 10.5pt">
+
+</span>
+</font></font><font color="/#333333" style="margin: 0; padding: 0">
+
+<input type="radio" onclick="check(270)" value="V1" style="margin: 0; padding: 0; font-size:10.5pt" name="e22"><span style="font-size: 10.5pt">百度知道</span></font><font color="/#333333"><span style="font-size: 10.5pt">　</span><input type="radio" onclick="check(992)" value="V1" style="margin: 0; padding: 0; font-size:10.5pt" name="e19"></font><span style="font-size: 10.5pt">知乎<font color="/#333333">搜索</font></span><font color="/#333333"><span style="font-size: 10.5pt">　</span></font><font color="/#333333" style="margin: 0; padding: 0"><input type="radio" onclick="check(271)" value="V1" style="margin: 0; padding: 0; font-size:10.5pt" name="R19"><span style="font-size: 10.5pt">百度百科</span></font><font color="/#333333"><span style="font-size: 10.5pt">　</span></font><font color="/#333333" style="margin: 0; padding: 0"><input type="radio" onclick="check(019)" style="margin:0; padding:0; font-size: 10.5pt" value="V1" name="R31"></font><font><span style="font-size: 10.5pt"><font color="/#333333">维基百科</font></span></font><font color="/#333333"><span style="font-size: 10.5pt">　</span></font><font color="/#434545" style="margin: 0; padding: 0"><input type="radio" onclick="check(018)" value="V1" style="margin: 0; padding: 0; font-size:10.5pt" name="R30"></font><font color="/#3F3F3F" style="margin: 0; padding: 0"><span style="font-size: 10.5pt">百度文库</span></font><font color="/#333333"><span style="font-size: 10.5pt">　</span></font><font color="/#3F3F3F" style="margin: 0; padding: 0"><input type="radio" onclick="check(237)" style="margin:0; padding:0; font-size: 10.5pt" value="V1" name="R27"><span style="font-size: 10.5pt">文档搜索</span></font><font><span style="font-size: 10.5pt">&nbsp;</span></font></td>
+</tr>
+
+<tr>
+<td width="873" height="27" style="font-size: 12px; margin: 0; padding: 0">
+
+<font><span style="font-size: 10.5pt">
+<font color="/#800000" style="margin: 0; padding: 0">网盘搜索</font></span><font color="/#333333" style="margin: 0; padding: 0"><span style="font-size: 10.5pt">
+
+</span>
+</font><font color="/#333333">
+
+<input type="radio" onclick="check(310)" value="V1" style="margin: 0; font-size:10.5pt; padding-left:4px; padding-right:4px; padding-top:1px; padding-bottom:1px" name="e47"><span style="font-size: 10.5pt">西
+林 街</span></font></font><font color="/#333333"><span style="font-size: 10.5pt">　</span></font><font color="/#333333" style="margin: 0; padding: 0"><input type="radio" onclick="check(600)" style="margin:0; padding:0; font-size: 10.5pt" value="V1" name="R34"></font><font><span style="font-size: 10.5pt"><font color="/#333333">微盘搜索</font></span></font></td>
+
+</tr>
+<tr>
+
+<td width="873" height="27" style="font-size: 12px; margin: 0; padding: 0">
+<font style="margin: 0; padding: 0"><span style="font-size: 10.5pt">
+
+<font color="/#800000" style="margin: 0; padding: 0">学术搜索</font></span><font color="/#333333" style="margin: 0; padding: 0"><span style="font-size: 10.5pt">
+</span>
+
+<input type="radio" onclick="check(991)" value="V1" style="margin: 0; padding: 0; font-size:10.5pt" name="e33"><span style="font-size: 10.5pt">谷歌学术</span></font><font color="/#333333"><span style="font-size: 10.5pt">　</span><input type="radio" onclick="check(700)" value="V1" style="margin: 0; font-size:10.5pt; padding-left:4px; padding-right:4px; padding-top:1px; padding-bottom:1px" name="e34"></font><font><span style="font-size: 10.5pt">百度学术</span></font><font color="/#333333"><span style="font-size: 10.5pt">　</span></font><font color="/#333333" style="margin: 0; padding: 0"><input type="radio" onclick="check(800)" value="V1" style="margin: 0; padding: 0; font-size:10.5pt" name="e35"></font><font color="/#333333"><span style="font-size: 10.5pt">必应学术　</span><input type="radio" onclick="check(900)" value="V1" style="margin: 0; font-size:10.5pt; padding-left:4px; padding-right:4px; padding-top:1px; padding-bottom:1px" name="e36"><span style="font-size: 10.5pt">搜狗学术</span></font><font color="/#333333"><span style="font-size: 10.5pt">　</span><input type="radio" onclick="check(994)" value="V1" style="margin: 0; font-size:10.5pt; padding-left:4px; padding-right:4px; padding-top:1px; padding-bottom:1px" name="e46"><span style="font-size: 10.5pt">超星发现</span></font><font color="/#333333"><font><span style="font-size: 10.5pt">　</span><input type="radio" onclick="check(995)" value="V1" style="margin: 0; font-size:10.5pt; padding-left:4px; padding-right:4px; padding-top:1px; padding-bottom:1px" name="e50"><span style="font-size: 10.5pt">万方学术</span></font></font><font color="/#333333"><span style="font-size: 10.5pt">　</span><input type="radio" onclick="check(996)" value="V1" style="margin: 0; font-size:10.5pt; padding-left:4px; padding-right:4px; padding-top:1px; padding-bottom:1px" name="e51"><span style="font-size: 10.5pt">珞珈学术　</span></font></font></td>
+</tr>
+
+<tr>
+<td width="873" height="27" style="font-size: 12px; margin: 0; padding: 0">
+
+<p style="line-height: 200%" align="left">
+<font color="/#008000">
+
+<a style="text-decoration: none; color:/#00e; font-size:10.5pt" href="http://www.sowang.com/picsearch.htm">
+<font color="/#800000">图片</font></a></font><font color="/#008000" style="margin: 0; padding: 0"><a style="text-decoration: none; margin: 0; padding: 0; color:/#00e; font-size:10.5pt" href="http://www.sowang.com/picsearch.htm"><font color="/#800000" style="margin: 0; padding: 0">搜索</font></a></font><font color="/#333333" style="margin: 0; padding: 0"><span style="font-size: 10.5pt">
+
+</span>
+<input type="radio" onclick="check(250)" value="V1" style="margin: 0; padding: 0; font-size:10.5pt" name="e23"><span style="font-size: 10.5pt">百度图片</span></font><font color="/#333333"><span style="font-size: 10.5pt">　</span></font><font color="/#333333" style="margin: 0; padding: 0"><input type="radio" onclick="check(249)" value="V1" style="margin: 0; padding: 0; font-size:10.5pt" name="e24"></font><a href="http://www.google.cn/webhp?client=aff-sowang&amp;hl=zh-CN&amp;channel=searchlink" style="text-decoration: none; margin: 0; padding: 0; color:/#00e; font-size:10.5pt"><span style="margin:0; padding:0; text-decoration: none"><font color="/#333333" style="margin: 0; padding: 0">谷歌图片</font></span></a><font color="/#333333"><span style="font-size: 10.5pt">　</span></font><font color="/#333333" style="margin: 0; padding: 0"><font color="/#333333"><input type="radio" onclick="check(239)" value="V1" style="margin: 0; padding: 0; font-size:10.5pt" name="e25"></font><span style="font-size: 10.5pt">搜狗图片</span></font><font color="/#333333"><span style="font-size: 10.5pt">　</span></font><font color="/#333333" style="margin: 0; padding: 0"><font color="/#333333"><input type="radio" onclick="check(240)" value="V1" style="margin: 0; padding: 0; font-size:10.5pt" name="e26"></font><span style="font-size: 10.5pt">站酷素材</span></font><font color="/#333333"><span style="font-size: 10.5pt">　</span><input type="radio" onclick="check(033)" value="V1" style="margin: 0; padding: 0; font-size:10.5pt" name="e6"><span style="font-size: 10.5pt">360图片</span></font><font style="margin: 0; padding: 0" color="/#333333"><span style="font-size: 10.5pt">&nbsp;</span></font></p>
+
+</td>
+</tr>
+
+<tr>
+<td width="873" height="27" style="font-size: 12px; margin: 0; padding: 0">
+
+<font style="margin: 0; padding: 0">
+<span style="font-size: 10.5pt">
+
+<font color="/#800000" style="margin: 0; padding: 0">实用搜索</font></span></font><span style="font-size: 10.5pt">
+</span> <font color="/#333333" style="margin: 0; padding: 0"><input type="radio" onclick="check(281)" style="margin:0; padding:0; font-size: 10.5pt" value="V1" name="R24"></font><font face="Trebuchet MS" color="/#333333" style="margin: 0; padding: 0"><span style="font-size: 10.5pt">百度汉语</span></font><font color="/#333333"><span style="font-size: 10.5pt">　</span></font><font color="/#3F3F3F" style="margin: 0; padding: 0"><input type="radio" onclick="check(275)" style="margin:0; padding:0; font-size: 10.5pt" value="V1" name="R23"></font><a style="margin:0; padding:0; text-decoration: none; color:/#00e; font-size:10.5pt" href="http://www.sowang.com/jinshanciba.htm"><font color="/#333333" style="margin: 0; padding: 0">金山词霸</font></a><font color="/#333333"><span style="font-size: 10.5pt">　</span></font><font color="/#333333" style="margin: 0; padding: 0"><input type="radio" onclick="check(993)" style="margin:0; padding:0; font-size: 10.5pt" value="V1" name="R35"></font><font><span style="font-size: 10.5pt"><font color="/#333333">有道词典</font></span></font><font color="/#333333"><span style="font-size: 10.5pt">　</span></font><font color="/#333333" style="margin: 0; padding: 0"><input type="radio" onclick="check(027)" style="margin:0; padding:0; font-size: 10.5pt" value="V1" name="R33"></font><font><span style="font-size: 10.5pt"><font color="/#333333">好豆菜谱</font></span></font><font color="/#333333"><span style="font-size: 10.5pt">　</span><input type="radio" onclick="check(400)" value="V1" style="margin: 0; padding: 0; font-size:10.5pt" name="e39"><span style="font-size: 10.5pt">4399游戏　</span><input type="radio" onclick="check(103)" value="V1" style="margin: 0; padding: 0; font-size:10.5pt" name="e49"><span style="font-size: 10.5pt">百度词典</span></font><font><span style="font-size: 10.5pt"><font color="/#333333"> </font></span></font></td>
+
+</tr>
+</tbody></table>
+
+</td>
+</tr>
+
+<tr>
+<td height="1">
+
+<hr color="/#EDEDED" size="1"></td>
+</tr>
+
+<tr>
+<td height="36">
+
+<table border="0" width="871" id="table1" height="36" style="font-family: 宋体; font-size: 9pt; margin: 0; padding: 0">
+<tbody style="margin: 0; padding: 0">
+
+<tr style="margin: 0; padding: 0">
+<td width="96" style="font-size: 12px; margin: 0; padding: 0" align="center">
+
+</td>
+<td width="96" style="font-size: 12px; margin: 0; padding: 0" align="center">
+
+</td>
+<td width="96" style="font-size: 12px; margin: 0; padding: 0" align="center">
+
+</td>
+<td width="96" style="font-size: 12px; margin: 0; padding: 0" align="center">
+
+</td>
+<td width="97" style="font-size: 12px; margin: 0; padding: 0" align="center">
+
+</td>
+<td width="97" style="font-size: 12px; margin: 0; padding: 0" align="center">
+
+</td>
+<td width="97" style="font-size: 12px; margin: 0; padding: 0" align="center">
+
+</td>
+<td width="97" style="font-size: 12px; margin: 0; padding: 0" align="center">
+
+</td>
+<td width="97" style="font-size: 12px; margin: 0; padding: 0" align="center">
+
+</td>
+</tr>
+
+<tr style="margin: 0; padding: 0">
+<td width="96" style="font-size: 12px; margin: 0; padding: 0" align="center">
+
+<span style="font-family: 宋体; font-size: 9pt">
+<a href="http://www.sowang.com/link.htm">
+
+<span style="font-size: 10.5pt; text-decoration: none">
+<font color="/#333333">搜索引擎大全</font></span></a></span></td>
+
+<td width="96" style="font-size: 12px; margin: 0; padding: 0" align="center">
+<a href="http://www.sowang.com/seek.htm">
+
+<span style="font-family: 宋体; font-size: 10.5pt; text-decoration: none">
+<font color="/#333333">搜索技巧</font></span></a></td>
+
+<td width="96" style="font-size: 12px; margin: 0; padding: 0" align="center">
+<a href="http://www.sowang.com/gaokao/">
+
+<span style="font-family: 宋体; font-size: 10.5pt; text-decoration: none">
+<font color="/#333333">搜网高考</font></span></a></td>
+
+<td width="96" style="font-size: 12px; margin: 0; padding: 0" align="center">
+<a href="http://www.sowang.com/googleseaech.htm">
+
+<span style="font-family: 宋体; font-size: 10.5pt; text-decoration: none">
+<font color="/#333333">Google搜索</font></span></a></td>
+
+<td width="97" style="font-size: 12px; margin: 0; padding: 0" align="left">
+<p align="center">
+
+<font color="/#434545" style="font-size: 10.5pt">
+<a href="http://www.sowang.com/bbs/forum.php?mod=forumdisplay&amp;fid=67">
+
+<span style="font-size: 10.5pt; text-decoration: none">
+<font color="/#333333">必应壁纸</font></span></a></font></p></td>
+
+<td width="97" style="font-size: 12px; color: /#000; font-family: 宋体; line-height: 140%; margin: 0; padding: 0" align="left">
+<font color="/#333333" style="margin: 0; padding: 0">
+
+<em style="margin: 0; padding: 0">
+<span style="margin:0; padding:0; font-size: 10.5pt">
+
+&nbsp;</span></em></font><a href="http://www.sowang.com/bbs/"><span style="font-family: 宋体; font-size: 10.5pt; text-decoration: none"><font color="/#333333">搜索爱好者</font></span></a></td>
+<td width="97" style="font-size: 12px; color: /#000; font-family: 宋体; line-height: 140%; margin: 0; padding: 0" align="left">
+
+<p align="center">
+<a href="http://www.sowang.com/baiduzaixianfanyi.htm">
+
+<span style="font-size: 10.5pt; text-decoration: none">
+<font color="/#333333">百度翻译</font></span></a><font color="/#333333" style="font-size: 10.5pt">
+
+</font>
+</p></td>
+
+<td width="97" style="font-size: 12px; color: /#000; font-family: 宋体; line-height: 140%; margin: 0; padding: 0" align="left">
+<p align="center">
+
+<a href="http://www.sowang.com/picsearch.htm">
+<span style="font-family: 宋体; font-size: 10.5pt; text-decoration: none">
+
+<font color="/#333333">搜网图片</font></span></a></p></td>
+<td width="97" style="font-size: 12px; color: /#000; font-family: 宋体; line-height: 140%; margin: 0; padding: 0" align="left">
+
+<p align="center">
+<a href="http://www.sowang.com/mp3search.htm">
+
+<span style="font-size: 10.5pt; text-decoration: none">
+<font color="/#333333">搜网音乐</font></span></a><font color="/#333333"><span style="font-size: 10.5pt">
+
+</span></font></p></td>
+</tr>
+
+</tbody></table>
+</td>
+
+</tr>
+<tr>
+
+<td height="29">
+</td>
+
+</tr>
+<tr>
+
+<td height="25">
+<p align="center"><span lang="zh-cn"><font color="/#434545">搜网全能搜</font></span><span class="eng"><font color="/#434545" style="margin: 0; padding: 0"><span style="font-size: 9pt">
+
+- 各大搜索引擎一键搜索！</span></font><font color="/#333333"><span style="font-size: 9pt"><font color="/#434545" face="Arial">&nbsp; </font></span></font></span><font color="/#333333">
+<a href="https://tieba.baidu.com/f?fr=wwwt&amp;kw=%CB%D1%CD%F8">
+
+<font color="/#434545" style="font-size: 9pt; text-decoration:none">搜网吧</font></a></font></p></td>
+</tr>
+
+<tr>
+<td height="26">
+
+<p align="center"><font color="/#333333" style="margin: 0; padding: 0">
+<span style="font-size: 9pt">Copyright
+
+<font face="Arial" style="margin: 0; padding: 0">&/#169;</font><font style="margin: 0; padding: 0"> </font></span></font><font face="Verdana," sans-serif="" helvetica,="" arial,="" style="margin: 0; padding: 0" color="/#000000"><font color="/#333333"><a href="http://www.sowang.com/" style="margin:0; padding:0; text-decoration: none; font-weight:700; font-size:9pt"><font color="/#FF0000">So</font>Wang</a></font><a href="http://www.sowang.com/" style="margin:0; padding:0; text-decoration: none; color: /#000000; font-weight:700; font-size:9pt"><font color="/#333333" style="margin: 0; padding: 0">.com</font></a></font><font color="/#333333" style="margin: 0; padding: 0; font-size:9pt">.All
+Rights Reserved</font></p></td>
+
+</tr>
+<tr>
+
+<td height="26">
+<p align="center"><span class="eng"><font color="/#333333">
+
+<a href="http://www.sowang.com/"><font color="/#434545">
+<span style="text-decoration: none">中文搜索引擎指南网(搜网)</span></font></a></font><span style="font-size: 9pt"><font color="/#434545" style="margin: 0; padding: 0"> </font> </span>
+
+</span><font color="/#333333">
+<a href="http://www.miibeian.gov.cn/">
+
+<font color="/#434545"><span style="text-decoration: none">鲁ICP备16006309号</span></font></a></font></p></td>
+</tr>
+
+<tr>
+<td height="14">
+
+<p align="center"></p></td>
+</tr>
+
+</tbody></table>
+</div>
+
+<!-- 参考http://www.sowang.com/s/ -->
+</html>
