@@ -17,13 +17,9 @@
 <table cellSpacing="0" cellPadding="0" width="760" align="center" border="0">
 
 <tr>
-<td>&nbsp;</td>
-
-</tr>
-<tr>
-
 <td>
-<H1>欢迎您使用搜索引擎大全(jianguocun.com)</H1></td>
+<H1>欢迎您使用搜索引擎大全(jianguocun.com)</H1>
+</td>
 
 <td width="68"><a href="javascript:window.external.addFavorite('www.jianguocun.com','搜索引擎大全');">收藏本页</a></td>
 <td><a onclick="this.style.behavior='url(/#default/#homepage)';this.setHomePage('www.jianguocun.com');" href="/#">设为首页</a></td>
@@ -52,7 +48,7 @@
 <tr>
 <td valign="top">
 
-<form action="http://www.baidu.com/s" accept-charset="UTF-8 onsubmit=document.charset='UTF-8'" method="get" target="_blank"><img height="30" alt=baidu src="/img/baidu.gif" width="110" border="0">
+<form action="http://www.baidu.com/s" accept-charset="UTF-8 onsubmit=document.charset='UTF-8'" method="get" target="_blank"><img height="30" alt="baidu" src="/img/baidu.gif" width="110" border="0">
 <input name="wd" size="30">
 
 <input type="submit" value="百度一下">
@@ -109,16 +105,16 @@
 </form>
 </td>
 
-<td width=30%><a href="http://www.wosusou.com" target="_blank"><img src="/img/wosusou.png" width="170" height="50" border="0"></a></td>
+<td width="30%"><a href="http://www.wosusou.com" target="_blank"><img src="/img/wosusou.png" width="170" height="50" border="0"></a></td>
 </tr>
 
 <tr>
 <td>
 
-<form action=http://www.chinaso.com/search/pagesearch.htm accept-charset=UTF-8 onsubmit=document.charset='UTF-8' method=get target=_blank><img height=30 src="/img/ChinaSo.png" width=110 border=0>
-<input size=30 name=q>
+<form action="http://www.chinaso.com/search/pagesearch.htm" accept-charset="UTF-8" onsubmit="document.charset='UTF-8'" method="get" target="_blank"><img height="30" src="/img/ChinaSo.png" width="110" border="0">
+<input size="30" name="q">
 
-<input type=submit value=中国搜索>
+<input type="submit" value="中国搜索">
 </form>
 
 </td>
@@ -127,10 +123,10 @@
 <tr>
 <td>
 
-<form action=https://www.yandex.com/search/ accept-charset=UTF-8 onsubmit=document.charset='UTF-8' method=get target=_blank><img height=30 src="/img/yandex.png" width=110 border=0>
-<input size=30 name=text>
+<form action="https://www.yandex.com/search/" accept-charset="UTF-8" onsubmit="document.charset='UTF-8'" method="get" target="_blank"><img height="30" src="/img/yandex.png" width="110" border="0">
+<input size="30" name="text">
 
-<input type=submit value=Yandex搜索>
+<input type="submit" value="Yandex搜索">
 </form>
 
 </td>
@@ -139,10 +135,10 @@
 <tr>
 <td>
 
-<form action=https://search.yahoo.com/search accept-charset=UTF-8 onsubmit=document.charset='UTF-8' method=get target=_blank><img height=30 src="/img/yahoo.png" width=110 border=0>
-<input size=30 name=p>
+<form action="https://search.yahoo.com/search" accept-charset="UTF-8" onsubmit="document.charset='UTF-8'" method="get" target="_blank"><img height="30" src="/img/yahoo.png" width="110" border="0">
+<input size="30" name="p">
 
-<input type=submit value=Yahoo搜索>
+<input type="submit" value="Yahoo搜索">
 </form>
 
 </td>
@@ -151,10 +147,11 @@
 <tr>
 <td>
 
-<form action=https://www.zhihu.com/search accept-charset=UTF-8 onsubmit=document.charset='UTF-8' method=get target=_blank><img height=30 src="/img/zhihu.png" width=110 border=0>
-<input size=30 name=q>
+<form action="https://www.zhihu.com/search" accept-charset="UTF-8" onsubmit="document.charset='UTF-8'" method="get" target="_blank">
+  <img height="30" src="/img/zhihu.png" width="110" border="0">
+<input size="30" name="q">
 
-<input type=submit value=知乎搜索>
+<input type="submit" value="知乎搜索">
 </form>
 
 </td>
@@ -163,10 +160,10 @@
 <tr>
 <td>
 
-<form action=https://s.weibo.com/weibo accept-charset=UTF-8 onsubmit=document.charset='UTF-8' method=get target=_blank><img height=30 src="/img/weibosousuo.png" width=110 border=0>
-<input size=30 name=q>
+<form action="https://s.weibo.com/weibo" accept-charset="UTF-8" onsubmit="document.charset='UTF-8'" method="get" target="_blank"><img height="30" src="/img/weibosousuo.png" width="110" border="0">
+<input size="30" name="q">
 
-<input type=submit value=微博搜索>
+<input type="submit" value="微博搜索">
 </form>
 
 </td>
@@ -175,10 +172,10 @@
 <tr>
 <td>
 
-<form action=http://weixin.sogou.com/weixin accept-charset=UTF-8 onsubmit=document.charset='UTF-8' method=get target=_blank><img height=30 src="/img/weixin.png" width=110 border=0>
-<input size=30 name=query>
+<form action="http://weixin.sogou.com/weixin" accept-charset="UTF-8" onsubmit="document.charset='UTF-8'" method="get" target="_blank"><img height="30" src="/img/weixin.png" width="110" border="0">
+<input size="30" name="query">
 
-<input type=submit value=搜狗微信公众号>
+<input type="submit" value="搜狗微信公众号">
 </form>
 
 </td>
@@ -187,10 +184,10 @@
 <tr>
 <td>
 
-<form action=http://weixin.sogou.com/weixin accept-charset=UTF-8 onsubmit=document.charset='UTF-8' method=get target=_blank><img height=30 src="/img/weixin.png" width=110 border=0>
-<input size=30 name=query><input name=type value="2" type="hidden">
+<form action="http://weixin.sogou.com/weixin" accept-charset="UTF-8" onsubmit="document.charset='UTF-8'" method="get" target="_blank"><img height="30" src="/img/weixin.png" width="110" border="0">
+<input size="30" name="query"><input name="type" value="2" type="hidden">
 
-<input type=submit value=搜狗微信文章>
+<input type="submit" value="搜狗微信文章">
 </form>
 
 </td>
@@ -199,10 +196,10 @@
 <tr>
 <td>
 
-<form action=https://github.com/search accept-charset=UTF-8 onsubmit=document.charset='UTF-8' method=get target=_blank><img height=30 src="/img/github.png" width=110 border=0>
-<input size=30 name=q>
+<form action="https://github.com/search" accept-charset="UTF-8" onsubmit="document.charset='UTF-8'" method="get" target="_blank"><img height="30" src="/img/github.png" width="110" border="0">
+<input size="30" name="q">
 
-<input type=submit value=github>
+<input type="submit" value="github">
 </form>
 
 </td>
