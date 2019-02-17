@@ -42,7 +42,6 @@
 </tr>
 </table>
 
-</br>
 <table cellSpacing="0" cellPadding="0" width="760" align="center" border="0">
 
 <tr>
