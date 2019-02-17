@@ -14,7 +14,7 @@
 </head>
 
 <body bgcolor="/#E6F0FC">
-<table cellSpacing=0 cellPadding=0 width=760 align=center border=0>
+<table cellSpacing="0" cellPadding="0" width="760" align="center" border="0">
 
 <tr>
 <td>&nbsp;</td>
@@ -25,17 +25,17 @@
 <td>
 <H1>欢迎您使用搜索引擎大全(jianguocun.com)</H1></td>
 
-<td width=68><a href="javascript:window.external.addFavorite('www.jianguocun.com','搜索引擎大全');">收藏本页</a></td>
+<td width="68"><a href="javascript:window.external.addFavorite('www.jianguocun.com','搜索引擎大全');">收藏本页</a></td>
 <td><a onclick="this.style.behavior='url(/#default/#homepage)';this.setHomePage('www.jianguocun.com');" href="/#">设为首页</a></td>
 
 </tr>
 </table>
 
-<table cellSpacing=0 cellPadding=0 width=760 align=center border=0>
+<table cellSpacing="0" cellPadding="0" width="760" align="center" border="0">
 <tr>
 
 <td>
-<P>有了本<a title=搜索引擎大全 href="www.jianguocun.com/" target=_blank>搜索引擎大全</a>,您就方便多了,只要打开本页,众多搜索引擎就在您的面前等您使用！<br>请在下面输入您想搜索的东东，例如搜索：mp3、游戏、电影、软件、图片、音乐、新闻、视频等等....</P></td>
+<P>有了本<a title="搜索引擎大全" href="www.jianguocun.com/" target="_blank">搜索引擎大全</a>,您就方便多了,只要打开本页,众多搜索引擎就在您的面前等您使用！<br>请在下面输入您想搜索的东东，例如搜索：mp3、游戏、电影、软件、图片、音乐、新闻、视频等等....</P></td>
 
 </tr>
 <tr>
@@ -47,15 +47,15 @@
 </table>
 
 </br>
-<table cellSpacing=0 cellPadding=0 width=760 align=center border=0>
+<table cellSpacing="0" cellPadding="0" width="760" align="center" border="0">
 
 <tr>
-<td valign=top>
+<td valign="top">
 
-<form action=http://www.baidu.com/s accept-charset=UTF-8 onsubmit=document.charset='UTF-8' method=get target=_blank><img height=30 alt=baidu src="/img/baidu.gif" width=110 border=0>
-<input name=wd size=30>
+<form action="http://www.baidu.com/s" accept-charset="UTF-8 onsubmit=document.charset='UTF-8'" method="get" target="_blank"><img height="30" alt=baidu src="/img/baidu.gif" width="110" border="0">
+<input name="wd" size="30">
 
-<input type=submit value=百度一下>
+<input type="submit" value="百度一下">
 </form>
 
 </td>
@@ -64,7 +64,7 @@
 <tr>
 <td>
 
-<form action=http://www.google.com.hk/ id="cse-search-box" accept-charset="UTF-8 onsubmit=document.charset='UTF-8'" target="_blank"><img height=30 alt=Google src="/img/google.gif" width=110 border=0></img>
+<form action="http://www.google.com.hk/" id="cse-search-box" accept-charset="UTF-8 onsubmit=document.charset='UTF-8'" target="_blank"><img height="30" alt="Google" src="/img/google.gif" width="110" border="0"></img>
 <input type="hidden" name="cx" value="partner-pub-6238062290632855:yflrh1qpako" />
 
 <input type="text" name="q" placeholder="请安装谷歌浏览器+访问助手" size="30" />
@@ -77,22 +77,10 @@
 <tr>
 
 <td>
-<form action=http://www.sogou.com/sogou accept-charset=UTF-8 onsubmit=document.charset='UTF-8' target=_blank><img height=30 src="/img/sogou.gif" width=110 border=0>
+<form action="http://www.sogou.com/sogou" accept-charset="UTF-8 onsubmit=document.charset='UTF-8'" target="_blank"><img height="30" src="/img/sogou.gif" width="110" border="0">
 
-<input size=30 name=query>
-<input type=submit value=搜狗搜索>
-
-</form>
-</td>
-
-</tr>
-<tr>
-
-<td>
-<form action=http://www.so.com/s accept-charset=UTF-8 onsubmit=document.charset='UTF-8' target=_blacnk><img src=/img/360.png width=110 height=30>
-
-<input size=30 name=q type=text>
-<input type=submit value=&nbsp;360搜索>
+<input size="30" name="query">
+<input type="submit" value="搜狗搜索">
 
 </form>
 </td>
@@ -101,15 +89,27 @@
 <tr>
 
 <td>
-<form action=http://www.bing.com/search accept-charset=UTF-8 onsubmit=document.charset='UTF-8' method=get target=_blank><img height=30 src="/img/bing.jpg" width=110 border=0>
+<form action="http://www.so.com/s" accept-charset="UTF-8 onsubmit=document.charset='UTF-8'" target="_blacnk"><img src="/img/360.png" width="110" height="30">
 
-<input size=30 name=q>
-<input type=submit value=必应搜索>
+<input size="30" name="q" type="text">
+<input type="submit" value="360搜索">
 
 </form>
 </td>
 
-<td width=30%><a href="http://www.wosusou.com" target=_blank><img src="/img/wosusou.png" width=170 height=50 border=0></a></td>
+</tr>
+<tr>
+
+<td>
+<form action="http://www.bing.com/search" accept-charset="UTF-8" onsubmit="document.charset='UTF-8'" method="get" target="_blank"><img height="30" src="/img/bing.jpg" width="110" border="0">
+
+<input size="30" name="q">
+<input type="submit" value="必应搜索">
+
+</form>
+</td>
+
+<td width=30%><a href="http://www.wosusou.com" target="_blank"><img src="/img/wosusou.png" width="170" height="50" border="0"></a></td>
 </tr>
 
 <tr>
