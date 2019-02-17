@@ -59,7 +59,7 @@
 <tr>
 <td>
 
-<form action="http://www.google.com.hk/" id="cse-search-box" accept-charset="UTF-8 onsubmit=document.charset='UTF-8'" target="_blank"><img height="30" alt="Google" src="/img/google.gif" width="110" border="0"></img>
+<form action="http://www.google.com.hk/" id="cse-search-box" accept-charset="UTF-8 onsubmit=document.charset='UTF-8'" target="_blank"><img height="30" alt="Google" src="/img/google.gif" width="110" border="0">
 <input type="hidden" name="cx" value="partner-pub-6238062290632855:yflrh1qpako" />
 
 <input type="text" name="q" placeholder="请安装谷歌浏览器+访问助手" size="30" />
