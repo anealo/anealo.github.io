@@ -18,7 +18,7 @@
 
 <tr>
 <td>
-<H1>欢迎您使用搜索引擎大全(jianguocun.com)</H1>
+<H1>搜索引擎大全(jianguocun.com)</H1>
 </td>
 
 <td width="68"><a href="javascript:window.external.addFavorite('www.jianguocun.com','搜索引擎大全');">收藏本页</a></td>
